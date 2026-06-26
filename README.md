@@ -1,4 +1,5 @@
 # 🛒 Superstore Sales Analysis
+![](/images/superstoreimage.jpeg)
 
 ## 👥 Team: Analytics Avengers
 
